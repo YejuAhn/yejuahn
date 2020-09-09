@@ -5,7 +5,7 @@ I am a rising Senior studying Statistics, Machine learning, and Software enginee
 
 📫  Email: esther98yeju@gmail.com 
 <br/>
-💬  I am currently based in Seoul, South Korea.
+🇰🇷  I am currently based in Seoul, South Korea.
 <br/>
 🌱  I've been working on learning Django and React from work and personal project.
 <br/>
