@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 🙋🏻‍♀️ 
 I am a rising Senior studying Statistics, Machine learning, and Software engineering at Carnegie Mellon University. I am passionate about building products using data that help people make meaningful insights and important decisions. 
 
 ![Alt text](https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif)
