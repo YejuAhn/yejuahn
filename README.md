@@ -7,7 +7,7 @@ I am a rising Senior studying Statistics, Machine learning, and Software enginee
 <br/>
 💬  I am currently based in Seoul, South Korea.
 <br/>
-🌱  I've been working on learning Django and React from work at AlgoCare and personal project.
+🌱  I've been working on learning Django and React from work and personal project.
 <br/>
 😄  Feel free to reach out! I would love to chat! 
 
