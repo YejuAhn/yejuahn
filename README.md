@@ -3,13 +3,13 @@ I am a rising Senior studying Statistics, Machine learning, and Software enginee
 
 ![Alt text](https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif)
 
-📫 Email: esther98yeju@gmail.com 
+📫  Email: esther98yeju@gmail.com 
 <br/>
-💬 I am currently based in Seoul, South Korea.
+💬  I am currently based in Seoul, South Korea.
 <br/>
-🌱 I've been working on learning Django and React from work at AlgoCare and personal project.
+🌱  I've been working on learning Django and React from work at AlgoCare and personal project.
 <br/>
-😄 Feel free to reach out! I would love to chat! 
+😄  Feel free to reach out! I would love to chat! 
 
 <!--
 **YejuAhn/yejuahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
