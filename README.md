@@ -1,5 +1,5 @@
 ### Hi there 🙋🏻‍♀️ 
-I am a rising Senior studying Statistics, Machine learning, and Software engineering at Carnegie Mellon University. I am passionate about building products using data that help people make meaningful insights and important decisions. 
+I am a rising Senior studying Statistics and Machine learning at Carnegie Mellon University. I am passionate about building products using data that help people make meaningful insights and important decisions. 
 
 📫  Email: esther98yeju@gmail.com 
 <br/>
