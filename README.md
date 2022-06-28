@@ -4,9 +4,7 @@ I am a Senior studying Statistics and Machine learning at Carnegie Mellon Univer
 
 📫  Email: esther98yeju@gmail.com 
 <br/>
-🇺🇸  I am currently based in Pittsburgh, PA.
-<br/>
-🌱  I've been working on learning Django and React recently.
+🇺🇸  I am currently based in San Jose, CA.
 <br/>
 😄  Feel free to reach out :)
 
