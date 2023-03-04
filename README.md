@@ -2,7 +2,7 @@
 
 📫  Email: esther98yeju@gmail.com 
 <br/>
-🇺🇸  I am currently based in San Jose, CA.
+🇺🇸  I am currently based in Bay Area, CA.
 <br/>
 😄  Feel free to reach out :)
 
