@@ -1,14 +1,3 @@
-### Hi there 🙋🏻‍♀️ 
-
-📫  Email: esther98yeju@gmail.com 
-<br/>
-🇺🇸  I am currently based in Bay Area, CA.
-<br/>
-😄  Feel free to reach out :)
-
-
-
-
 
 <!--
 **YejuAhn/yejuahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
